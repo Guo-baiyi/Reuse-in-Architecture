@@ -2,8 +2,8 @@
 ![image](https://github.com/Guo-baiyi/Reuse-in-Architecture/assets/120784487/859721b8-1acf-4347-8a68-07aaf49cc2ac)
 
 
--**High-quality recycling of all (large) metallic parts** 
--**Where are they collected?  
+- **High-quality recycling of all (large) metallic parts** 
+- **Where are they collected?  
 -Who could process them?**  
 --The collection points and potential entities or industries capable of processing them.  
 
