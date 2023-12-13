@@ -14,10 +14,11 @@ Dismantling economical: factors: value + work -- material loop potential
 
 - # Analysis of Inventory (Quantity, Material, Type of Installation)
 - Quantity, Material
-<img width="528" alt="image" src="https://github.com/Guo-baiyi/Reuse-in-Architecture/assets/120784487/a684ce56-cabf-48be-af0d-9402f4262994">
-- Type of Installation -- Demolition of Facade
+<img width="528" alt="image" src="https://github.com/Guo-baiyi/Reuse-in-Architecture/assets/120784487/a684ce56-cabf-48be-af0d-9402f4262994"> 
+
+- Type of Installation -- Demolition of Facade 
 <img width="756" alt="image" src="https://github.com/Guo-baiyi/Reuse-in-Architecture/assets/120784487/65a93ce8-e565-4672-9a17-36bca115f0ac">
-<img width="183" alt="image" src="https://github.com/Guo-baiyi/Reuse-in-Architecture/assets/120784487/20565cc1-b607-49f0-a2aa-d3d872a7072b">
+<img width="183" alt="image" src="https://github.com/Guo-baiyi/Reuse-in-Architecture/assets/120784487/20565cc1-b607-49f0-a2aa-d3d872a7072b"> 
 
 - # Swimlane with Actors in the Phases of Demolition, Processing, Installation (In 3 Phase )
 
