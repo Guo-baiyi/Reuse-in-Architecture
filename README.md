@@ -9,7 +9,7 @@ Who could process them?**
 
 **Production and press workshop, façade builder.**  
 
-Dismantling economical: factors: value + work
+Dismantling economical: factors: value + work -- material loop potential
 
 # Analysis of Inventory (Quantity, Material, Type of Installation)
 
